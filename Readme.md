@@ -26,3 +26,6 @@ It is designed to showcase personal information, skills, and projects in a clean
 ---
 
 ## 📁 Project Structure
+
+
+new line
