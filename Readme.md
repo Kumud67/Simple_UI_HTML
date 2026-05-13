@@ -79,3 +79,21 @@ Functional interfaces
 Optional
 File handling
 Enums
+
+
+Advanced Java
+Multithreading & Concurrency
+ExecutorService
+CompletableFuture
+Synchronization
+Locks
+JVM basics
+Garbage Collection
+Memory management
+Reflection
+Design Patterns
+Singleton
+Factory
+Strategy
+Builder
+Observer
