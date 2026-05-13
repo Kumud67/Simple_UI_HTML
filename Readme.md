@@ -48,3 +48,17 @@ update
 new update
 
 Java
+
+1. Core Java (Most Important Foundation)
+
+Learn deeply, not just syntax.
+
+Basics
+OOP concepts
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+Classes & Objects
+Constructors
+Access modifiers
