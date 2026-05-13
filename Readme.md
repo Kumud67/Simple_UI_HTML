@@ -62,3 +62,20 @@ Abstraction
 Classes & Objects
 Constructors
 Access modifiers
+
+
+Intermediate Java
+Collections Framework
+List
+Set
+Map
+Queue
+Generics
+Exception Handling
+Java 8+
+Lambda
+Stream API
+Functional interfaces
+Optional
+File handling
+Enums
